@@ -1,0 +1,3 @@
+/mnt/c/Users/bucke/CLionProjects/networking/cmake-build-debug/CMakeFiles/keygen.dir
+/mnt/c/Users/bucke/CLionProjects/networking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bucke/CLionProjects/networking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/snap/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/bucke/CLionProjects/networking -B /mnt/c/Users/bucke/CLionProjects/networking/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/c/Users/bucke/CLionProjects/networking/cmake-build-debug
